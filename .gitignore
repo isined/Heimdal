@@ -1,0 +1,11 @@
+
+postgres_data/
+mysql_data/
+
+
+*.log
+logs/
+
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  # Временная заглушка, чтобы файл не был пустым
+  placeholder:
+    image: alpine
+    command: echo "Heimdal structure initialized"
